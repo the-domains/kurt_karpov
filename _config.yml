@@ -1,0 +1,23 @@
+name: Kurt_Karpov
+favicon: null
+layout_spectrum: 0.1787625029683113
+typography_spectrum: 0.8675744342617691
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8300238344818354
+  lightness: 0.2789285851176828
+  saturation: 0.6964381723664701
+  rhythmicContrast: 0.5166800986044109
+purpose: []
