@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Kurt_Karpov]]></title>
         <description><![CDATA[Kurt_Karpov]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kurt_karpov/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 03:08:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 Nov 2015 00:35:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kurt_karpov/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Home Page]]></title>
             <description><![CDATA[<article><h1>Home Page</h1><p>Adventure into design using The Grid</p></article>]]></description>
-            <link>undefinedhome-page/index.html</link>
+            <link>https://thegrid.ai/kurt_karpov/home-page/index.html</link>
             <guid isPermaLink="false">aca30394-d200-41d6-8b6e-da89efd24ca2</guid>
-            <pubDate>Mon, 09 Nov 2015 03:08:37 GMT</pubDate>
+            <pubDate>Tue, 10 Nov 2015 00:35:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
