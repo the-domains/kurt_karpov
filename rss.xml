@@ -4,8 +4,15 @@
         <description><![CDATA[Kurt_Karpov]]></description>
         <link>https://thegrid.ai/kurt_karpov/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 02:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2015 03:01:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kurt_karpov/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test page 3]]></title>
+            <description><![CDATA[<article><h1>Test page 3</h1><p>another test this should be type</p><img src="https://lh3.googleusercontent.com/xTvBBdqtY31PdhJfLTHZaUHG8FrCKVOJemS10ql33H0_8eQ9zfm20OR9k-k4g9ThJ3Msih-FCqpCNmXoRWp3R7WEDaCSGMQoNRJ6V__nLsWwqWZ0APGUSLqk98JYipRx4A0W4EOuUBUOZjtGDVDY9_aztDJnAHwnPmPu2LjvXHgKlQMN5y-7fPmdjZWB4Sb4N923eo28heXkrAdcR3U2vd3y_R3FonqffLDB3_TEXxpONY8Z9HcZBFLKmZeVGj1KQXXd1umOxeTLOIWdZnlRJBL3iecvVd_w6UGg7yFgxKO-rmJ9B8cgetxvf1J_yMx8YezHhHp69KVOmdMjm9HqmKwwjj5W6Ea-TcalrtTzBAtn_8kudIpj2DChxwSYmN8pCdjicYBW6mRLU3XZVUf59SaIrdEH3k4gx_7M5BOjF9LQ5Nm_TFJeF_XZnEkVvanAbJ6UXvNVXZqemjt9TVCD8LvPG4UfkvU5Eufq9RS94FzkEb1GkrDqNx4oESDN1w2v5gHwE4dL6s1Dk_OTCT17N5ISUsyKxAd1hsPbKnO4x2c=s599-no"></article>]]></description>
+            <link>https://thegrid.ai/kurt_karpov/test-page-3/index.html</link>
+            <guid isPermaLink="false">11c7bd80-d61c-417a-a8ba-01754328dded</guid>
+            <pubDate>Wed, 11 Nov 2015 03:01:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Test two </p>]]></description>
